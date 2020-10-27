@@ -27,6 +27,10 @@
       "N8N_BASIC_AUTH_PASSWORD": {
         "description": "Basic Authentication Password to secure n8n.",
         "value": "pass"
+      },
+      "WEBHOOK_TUNNEL_URL" :{
+         "description": "url adderess to oauth authtition,mostly 'https://{YOUR APP NAME}.herokuapp.com/'",
+         "value": "pass"
       }
     },
     "formation": {
