@@ -30,7 +30,7 @@
       },
       "WEBHOOK_TUNNEL_URL" :{
          "description": "url adderess to oauth authtition,mostly 'https://{YOUR APP NAME}.herokuapp.com/'",
-         "value": "pass"
+         "value": "url"
       }
     },
     "formation": {
