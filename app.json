@@ -31,7 +31,10 @@
       "WEBHOOK_TUNNEL_URL" :{
          "description": "url adderess to oauth authtition,mostly 'https://{YOUR APP NAME}.herokuapp.com/'",
          "value": "url"
-      }
+      },
+      "N8N_ENCRYPTION_KEY":{
+         "description": "any random string to work as encryptation key",
+         "value": "eq4iocthjxm95wp45yw45aerjptgmp985w4cp9tgwrbv54cy7vbew"
     },
     "formation": {
       "web": {
