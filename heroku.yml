@@ -8,6 +8,7 @@ setup:
         N8N_BASIC_AUTH_USER: user
         N8N_BASIC_AUTH_PASSWORD: pass
         WEBHOOK_TUNNEL_URL: url
+        N8N_ENCRYPTION_KEY: encrypt_key
 
 build:
     docker:
